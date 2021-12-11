@@ -43,8 +43,8 @@ jobs:
       - name: build-push
         uses: docker/build-push-action@v1
         with:
-          username: annakiselevabfi
-          password: 210418Ana
-          repository: annakiselevabfi/Web
+          username: annakiseleva
+          password: annaanna32
+          repository: annakiseleva/kursovaya
           target: api
           tags: 0.0.1, latest
